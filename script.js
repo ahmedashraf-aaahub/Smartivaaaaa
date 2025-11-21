@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
     
     // 5. وظيفة إرسال النموذج عبر واتساب
-    // الرقم المخصص: +201002196772
+    // الرقم المخصص للنموذج: +201002196772
     const whatsappNumber = '201002196772'; 
     const helpForm = document.getElementById('help-form');
 
